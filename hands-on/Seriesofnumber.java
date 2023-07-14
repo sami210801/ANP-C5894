@@ -22,7 +22,7 @@ public class Seriesofnumber {
  	        }
  	     //Test expression
      while(num != 0);
- 	     
+ 	       //print multiplication of a number
  	       System.out.println("enter the number " +  num+ " is " + sum);
  	      sc.close();
  	        }
